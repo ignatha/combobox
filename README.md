@@ -19,7 +19,7 @@ jcombo_001501.isi(rs);
 
 ## Authors
 
-* **Ignatha Prabowo** - *Student* - [PurpleBooth](http://ignatha.com)
+* **Ignatha Prabowo** - *Student* - [ignatha.com](http://ignatha.com)
 
 
 ## License
