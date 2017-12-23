@@ -9,7 +9,7 @@ Membuat Jcombo dengan multi list
 
 ### Installing
 
-Anda harus akses data dengan database dengan output ResulSet 
+Anda harus akses data ke database dengan output ResultSet 
 
 ```
 ResultSet rs = c.createStatement().executeQuery("SELECT * FROM siswa");       
